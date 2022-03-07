@@ -1,0 +1,16 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "order3".(’ïÃ®ÿÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "order2".(™îðˆúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ýÝõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š°«ìþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“¤í°üÿÿÿÿ
+F
+java:S1481"+Remove this unused "order2" local variable.(™îðˆúÿÿÿÿ
+F
+java:S1481"+Remove this unused "order3" local variable.(’ïÃ®ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚŠšùúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Þ«ú¸
+0
+java:S1220""Move this file to a named package.

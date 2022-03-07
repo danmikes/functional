@@ -1,0 +1,13 @@
+
+w
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(´…µ„üÿÿÿÿ
+x
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Optional>'(ÉŸ¡Ğüÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ü¬#
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑˆùÎøÿÿÿÿ
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'IntFunction<Optional>'(ï¶»Ëûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(÷ëì
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(£ç¹Ìüÿÿÿÿ
+N
+java:S1128"9Remove this unused import 'javax.swing.text.html.Option'.(¼Òì:

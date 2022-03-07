@@ -1,0 +1,8 @@
+
+h	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»©­İşÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+q
+java:S4276"TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(ÒÀ°”8İãğ‰ö/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(äüÑüÿÿÿÿ8€ŸÛ‰ö/

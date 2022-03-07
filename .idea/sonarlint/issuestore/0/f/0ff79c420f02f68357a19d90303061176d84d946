@@ -1,0 +1,11 @@
+
+N
+java:S1854"9Remove this useless assignment to local variable "list0".(ø‰ÿh
+?
+java:S1481"*Remove this unused "list0" local variable.(ø‰ÿh
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÚÜì
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(îŒ÷áøÿÿÿÿ
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(åúú¿8µ­‚›ö/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Šáù8Úì‚›ö/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ÈÃ¹÷8Úì‚›ö/
